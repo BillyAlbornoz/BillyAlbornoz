@@ -12,7 +12,7 @@ I'm a fullstack developer passionate about new technologies. I am also an electr
 
 I'm focused on fullstack development, so here is a list of technologies I use or have good experience with.
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,js,ts,cs,php,py,express,html,css,materialui,bootstrap,vue,react,redux,graphql,qt,jest,mongodb,postgres,mysql,sqlite,prisma,docker,kubernetes,git,github,gitlab,arduino,raspberrypi,figma,xd,ai,ps&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,js,ts,cs,php,py,express,laravel,html,css,materialui,bootstrap,vue,react,redux,graphql,qt,jest,redis,mongodb,postgres,mysql,sqlite,prisma,docker,kubernetes,git,github,gitlab,arduino,raspberrypi,figma,xd,ai,ps&perline=10)](https://skillicons.dev)
 
 ### 💬 Let's connect
 
