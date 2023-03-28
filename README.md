@@ -4,7 +4,7 @@
 I'm a fullstack developer passionate about new technologies. I am also an electronic technician and I have experience with programmable electronic boards and projects development. I love mixing software with hardware :heart_eyes:.
 
 - 💻 I’m currently working as a Fullstack Developer
-- 📚 I’m passionate about Raspberry Pi and Arduino
+- 📚 I’m passionate about development boards like Raspberry Pi, Arduino and others
 - 🌱 I'm always thinking about innovation projects
 
 ---
